@@ -6,7 +6,7 @@
 __可如果手动翻译效率极低，于是就有了这款自动翻译机__  
 这是用python做的谷歌自动翻译机，可以自动翻译内容*十几甚至几十遍~~就是翻译太多变会卡~~*  
   
-原作者：MC着火的冰块，地址：https://www.bilibili.com/video/BV1VB4y1B7H4?p=1&amp;vd_source=28f8767c6a9d282fd00590004a9ffec0
+原作者：Bilibili @MC着火的冰块，地址：https://www.bilibili.com/video/BV1VB4y1B7H4?p=1&amp;vd_source=28f8767c6a9d282fd00590004a9ffec0
 __（已授权搬运）__
 ***
 ## 使用说明：
