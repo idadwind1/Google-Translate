@@ -1,4 +1,4 @@
-# 谷歌生草机介绍：  
+# 谷歌翻译生草机介绍：  
 :monkey_face::monkey_face::monkey_face:  
 ***
 ## 原作者：  
