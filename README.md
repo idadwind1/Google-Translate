@@ -3,7 +3,7 @@
 :monkey_face::monkey_face::monkey_face:  
 ***
 ## 原作者：  
-`Bilibili` __@MC着火的冰块__，原视频：[空降至Bilibili](https://space.bilibili.com/551409211 "点击空降")
+`Bilibili` __@MC着火的冰块__  [空降至Bilibili](https://space.bilibili.com/551409211 "点击空降")
 __（已授权搬运）__
 ***
 ## 简介：  
