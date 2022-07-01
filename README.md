@@ -28,7 +28,8 @@ __可如果手动翻译效率极低，于是就有了这款自动翻译机__
 ***
 ## 使用说明：
 引用库：`tkinter` `googletrans` `threading` `pyperclip`  
-**已将需要安装的库放入requirements.txt，批量安装请使用命令行命令：pip install -r requirements.txt**
+**已将需要安装的库放入requirements.txt，批量安装请使用命令行命令：
+  pip install -r requirements.txt**
   
 ### 1.0：  
 1. 创建**2**个**文本文档**
