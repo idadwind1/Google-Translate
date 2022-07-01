@@ -27,7 +27,7 @@ __可如果手动翻译效率极低，于是就有了这款自动翻译机__
 - 翻译使用多线程，窗口再也不会未响应了！
 ***
 ## 使用说明：
-引用库：`tkinter` `googletrans`  
+引用库：`tkinter` `googletrans` `threading` `pyperclip`  
   
 ### 1.0：  
 1. 创建**2**个**文本文档**
